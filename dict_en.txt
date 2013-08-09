@@ -3,785 +3,785 @@
 <root>
 
   <name key="Wizard" tags="m">
-    <singular>Wizard</singular>    
-    <plural>Wizard</plural>
+    <singular>Büyücü</singular>    
+    <plural>Büyücüler</plural>
   </name>
 
   <name key="OldMan" tags="m an">
-    <singular>old Man</singular>   
-    <plural>old Men</plural>
+    <singular>Yaşlı Adam</singular>   
+    <plural>Yaşlı Adamlar</plural>
   </name>
 
   <name key="LizardmanMale" tags="m">
-    <singular>Lizardman</singular>
-    <plural>Lizardmen</plural>
+    <singular>Kertenkele Adam</singular>
+    <plural>Kertenkele Adamlar</plural>
   </name>
 
   <name key="LizardmanFemale" tags="m">
-    <singular>Lizardman</singular>
-    <plural>Lizardmen</plural>
+    <singular>Kertenkele Kadın</singular>
+    <plural>Kertenkele Kadınlar</plural>
   </name>
 
   <name key="GoblinMale" tags="m">
-    <singular>Goblin</singular>
-    <plural>Goblins</plural>
+    <singular>Gulyabani</singular>
+    <plural>Gulyabaniler</plural>
   </name>
 
   <name key="GoblinFemale" tags="f">
-    <singular>Goblin</singular>
-    <plural>Goblins</plural>
+    <singular>Gulyabani</singular>
+    <plural>Gulyabaniler</plural>
   </name>
 
   <name key="Crow" tags="f">
     <singular>Karga</singular>
-    <plural>Crows</plural>
+    <plural>Kargalar</plural>
   </name>
 
   <name key="Parrot" tags="m">
-    <singular>Parrot</singular>
-    <plural>Parrots</plural>
+    <singular>Papağan</singular>
+    <plural>Papağanlar</plural>
   </name>
 
   <name key="Peacock" tags="m">
-    <singular>Peacock</singular>
-    <plural>Peacocks</plural>
+    <singular>Tavuskuşu</singular>
+    <plural>Tavuskuşları</plural>
   </name>
 
   <name key="Seagull" tags="f">
-    <singular>Seagull</singular>
-    <plural>Seagulls</plural>
+    <singular>Martı</singular>
+    <plural>Martılar</plural>
   </name>
 
   <name key="Bat" tags="f">
-    <singular>Bat</singular>
-    <plural>Bats</plural>
+    <singular>Yarasa</singular>
+    <plural>Yarasalar</plural>
   </name>
 
   <name key="Hornet" tags="f">
-    <singular>Hornet</singular>
-    <plural>Hornets</plural>
+    <singular>Eşek Arısı</singular>
+    <plural>Eşek Arıları</plural>
   </name>
 
   <name key="Bumblebee" tags="f">
-    <singular>Bumblebee</singular>
-    <plural>Bumblebees</plural>
+    <singular>Yaban Arısı</singular>
+    <plural>Yaban Arıları</plural>
   </name>
 
   <name key="Koala" tags="f">
     <singular>Koala</singular>
-    <plural>Koalas</plural>
+    <plural>Koalalar</plural>
   </name>
 
 
   <name key="InsectGuard" tags="m">
-    <singular>Insect Guard</singular>
-    <plural>Insect Guards</plural>
+    <singular>Böcek Koruma</singular>
+    <plural>Böcek Korumalar</plural>
   </name>
 
   <name key="PlainRunner" tags="m">
-    <singular>Plain Runner</singular>
-    <plural>Plain Runners</plural>
+    <singular>Ova Koşucusu</singular>
+    <plural>Ova Koşucuları</plural>
   </name>
 
   <name key="LeafRunner" tags="m">
-    <singular>Leaf Runner</singular>
-    <plural>Leaf Runners</plural>
+    <singular>Yaprak Koşucusu</singular>
+    <plural>Yaprak Koşucuları</plural>
   </name>
 
   <name key="SnowRunner" tags="m">
-    <singular>Snow Runner</singular>
-    <plural>Snow Runners</plural>
+    <singular>Kar Koşucusu</singular>
+    <plural>Kar Koşucuları</plural>
   </name>
 
   <name key="DesertRunner" tags="m">
-    <singular>Desert Runner</singular>
-    <plural>Desert Runners</plural>
+    <singular>Çöl Koşucusu</singular>
+    <plural>Çöl Koşucuları</plural>
   </name>
 
   <name key="Frog" tags="m">
-    <singular>Frog</singular>
-    <plural>Frogs</plural>
+    <singular>Kurbağa</singular>
+    <plural>Kurbağalar</plural>
   </name>
 
   <name key="DwarfMale" tags="m">
-    <singular>Dwarf</singular>
-    <plural>Dwarves</plural>
+    <singular>Cüce</singular>
+    <plural>Cüceler</plural>
   </name>
 
   <name key="DwarfFemale" tags="f">
-    <singular>Dwarf</singular>
-    <plural>Dwarves</plural>
+    <singular>Cüce</singular>
+    <plural>Cüceler</plural>
   </name>
 
   <name key="FrogmanMale" tags="m">
-    <singular>Frogman</singular>
-    <plural>Frogmen</plural>
+    <singular>Kurbağa Adam</singular>
+    <plural>Kurbağa Adamlar</plural>
   </name>
 
   <name key="FrogmanFemale" tags="f">
-    <singular>Frogman</singular>
-    <plural>Frogmen</plural>
+    <singular>Kurbağa Kadın</singular>
+    <plural>Kurbağa Kadınlar</plural>
   </name>
 
   <name key="Mole" tags="m">
-    <singular>Mole</singular>
-    <plural>Moles</plural>
+    <singular>Köstebek</singular>
+    <plural>Köstebekler</plural>
   </name>
 
   <name key="Horus" tags="m">
-    <singular>Ancient Guardian</singular>
-    <plural>Ancient Guardian</plural>
+    <singular>Antik Gardiyan</singular>
+    <plural>Antik Gardiyanlar</plural>
   </name>
 
   <name key="Anubis" tags="m">
-    <singular>Ancient Guardian</singular>
-    <plural>Ancient Guardian</plural>
+    <singular>Antik Gardiyan</singular>
+    <plural>Antik Gardiyanlar</plural>
   </name>
 
   <name key="Biter" tags="m">
-    <singular>Biter</singular>
-    <plural>Biters</plural>
+    <singular>Isırıcı</singular>
+    <plural>Isırıcılar</plural>
   </name>
 
   <name key="Squirrel" tags="m">
-    <singular>Squirrel</singular>
-    <plural>Squirrels</plural>
+    <singular>Sincap</singular>
+    <plural>Sincap</plural>
   </name>
 
   <name key="Raccoon" tags="m">
-    <singular>Raccoon</singular>
-    <plural>Raccoons</plural>
+    <singular>Rakun</singular>
+    <plural>Rakunlar</plural>
   </name>
 
   <name key="Duckbill" tags="n">
-    <singular>Duckbill</singular>
-    <plural>Duckbills</plural>
+    <singular>Kunduz</singular>
+    <plural>Kunduzlar</plural>
   </name>
 
   <name key="Crocodile" tags="n">
-    <singular>Crocodile</singular>
-    <plural>Crocodiles</plural>
+    <singular>Timsah</singular>
+    <plural>Timsahlar</plural>
   </name>
 
   <name key="Owl" tags="f">
-    <singular>Owl</singular>
-    <plural>Owls</plural>
+    <singular>Baykuş</singular>
+    <plural>Baykuşlar</plural>
   </name>
 
   <name key="Crab" tags="f">
-    <singular>Crab</singular>
-    <plural>Crabs</plural>
+    <singular>Yengeç</singular>
+    <plural>Yengeç<plural>
   </name>
 
   <name key="BarkBeetle" tags="m">
-    <singular>Bark Beetle</singular>
-    <plural>Bark Beetles</plural>
+    <singular>Kabuklu Böcek</singular>
+    <plural>Kabuklu Böcekler</plural>
   </name>
 
   <name key="SnoutBeetle" tags="m">
-    <singular>Snout Beetle</singular>
-    <plural>Snout Beetles</plural>
+    <singular>Hortumlu Böcek</singular>
+    <plural>Hortumlu Böcekler</plural>
   </name>
 
   <name key="LemonBeetle" tags="m">
-    <singular>Lemon Beetle</singular>
-    <plural>Lemon Beetles</plural>
+    <singular>Limon Böceği</singular>
+    <plural>Limon Böcekleri</plural>
   </name>
 
   <name key="FireBeetle" tags="m">
-    <singular>Fire Beetle</singular>
-    <plural>Fire Beetles</plural>
+    <singular>Ateş Böceği</singular>
+    <plural>Ateş Böcekleri</plural>
   </name>
 
   <name key="LemonFish" tags="m">
-    <singular>Lemon Fish</singular>
-    <plural>Lemon Fishes</plural>
+    <singular>Limon Balığı</singular>
+    <plural>Limon Balıkları</plural>
   </name>
 
   <name key="SapphireFish" tags="m">
-    <singular>Sapphire Fish</singular>
-    <plural>Sapphire Fishes</plural>
+    <singular>Safir Balığı</singular>
+    <plural>Safir Balıkları</plural>
   </name>
 
   <name key="Shark" tags="m">
-    <singular>Shark</singular>
-    <plural>Shark</plural>
+    <singular>Köpek Balığı</singular>
+    <plural>Köpek Balıkları</plural>
   </name>
 
 
   <name key="LanternFish" tags="m">
-    <singular>Lantern Fish</singular>
-    <plural>Lantern Fishes</plural>
+    <singular>Fener Balığı</singular>
+    <plural>Fener Balıkları</plural>
   </name>
 
   <name key="MawFish" tags="m">
-    <singular>Maw Fish</singular>
-    <plural>Maw Fishes</plural>
+    <singular>Gırtlak Balığı</singular>
+    <plural>Gırtlak Balıkları</plural>
   </name>
 
   <name key="Piranha" tags="m">
-    <singular>Piranha</singular>
-    <plural>Piranhas</plural>
+    <singular>Pirana</singular>
+    <plural>Piranalar</plural>
   </name>
 
 
   <name key="Blowfish" tags="m">
-    <singular>Blowfish</singular>
-    <plural>Blowfishes</plural>
+    <singular>Darbe Balığı</singular>
+    <plural>Darbe Balıkları</plural>
   </name>
 
 
   <name key="Seahorse" tags="n">
-    <singular>Seahorse</singular>
-    <plural>Seahorses</plural>
+    <singular>Denizatı</singular>
+    <plural>Denizatları</plural>
   </name>
 
   <name key="Vase" tags="f">
-    <singular>Vase</singular>
-    <plural>Vases</plural>
+    <singular>Vazo</singular>
+    <plural>Vazolar</plural>
   </name>
 
   <name key="SeaCrab" tags="f">
-    <singular>Sea Crab</singular>
-    <plural>Sea Crabs</plural>
+    <singular>Yengeç</singular>
+    <plural>Yengeçler</plural>
   </name>
 
   <name key="Penguin" tags="m">
-    <singular>Penguin</singular>
-    <plural>Penguins</plural>
+    <singular>Penguen</singular>
+    <plural>Penguenler</plural>
   </name>
 
   <name key="OrcMale" tags="m an">
-    <singular>Orc</singular>
-    <plural>Orcs</plural>
+    <singular>Ork</singular>
+    <plural>Orklar</plural>
   </name>
 
   <name key="OrcFemale" tags="f an">
-    <singular>Orc</singular>
-    <plural>Orcs</plural>
+    <singular>Ork</singular>
+    <plural>Orklar</plural>
   </name>
 
   <name key="UndeadMale" tags="m an">
-    <singular>Undead</singular>
-    <plural>Undeads</plural>
+    <singular>Ölümsüz</singular>
+    <plural>Ölümsüzler</plural>
   </name>
 
   <name key="UndeadFemale" tags="m an">
-    <singular>Undead</singular>
-    <plural>Undeads</plural>
+    <singular>Ölümsüz</singular>
+    <plural>Ölümsüzler</plural>
   </name>
 
   <name key="Skeleton" tags="n">
-    <singular>Skeleton</singular>
-    <plural>Skeletons</plural>
+    <singular>İskelet</singular>
+    <plural>İskeletler</plural>
   </name>
 
   <name key="Dragon" tags="m">
-    <singular>Dragon</singular>
-    <plural>Dragons</plural>
+    <singular>Ejderha</singular>
+    <plural>Ejderhalar</plural>
   </name>
 
   <name key="IronDeposit" tags="n">
-    <singular>Iron Deposit</singular>
-    <plural>Iron Deposits</plural>
+    <singular>Demir Depoziti</singular>
+    <plural>Demir Depozitleri</plural>
   </name>
 
   <name key="GoldDeposit" tags="n">
-    <singular>Gold Deposit</singular>
-    <plural>Gold Deposits</plural>
+    <singular>Altın Depoziti</singular>
+    <plural>Altın Depozitleri</plural>
   </name>
 
   <name key="SilverDeposit" tags="n">
-    <singular>Silver Deposit</singular>
-    <plural>Silver Deposits</plural>
+    <singular>Gümüş Depoziti</singular>
+    <plural>Gümüş Depozitleri</plural>
   </name>
 
   <name key="SandstoneDeposit" tags="n">
-    <singular>Sandstone Deposit</singular>
-    <plural>Sandstone Deposits</plural>
+    <singular>Kumtaşı Depoziti</singular>
+    <plural>Kumtaşı Depozitleri</plural>
   </name>
 
   <name key="IceCrystalDeposit" tags="n">
-    <singular>Ice Crystal Deposit</singular>
-    <plural>Ice Crystal Deposits</plural>
+    <singular>Buz Kristali Depoziti</singular>
+    <plural>Buz Kristali Depoziti</plural>
   </name>
 
   <name key="EmeraldDeposit" tags="n">
-    <singular>Emerald Deposit</singular>
-    <plural>Emerald Deposits</plural>
+    <singular>Zümrüt Depoziti</singular>
+    <plural>Zümrüt Depozitleri</plural>
   </name>
 
   <name key="DiamondDeposit" tags="n">
-    <singular>Diamond Deposit</singular>
-    <plural>Diamond Deposits</plural>
+    <singular>Elmas Depoziti</singular>
+    <plural>Elmaz Depozitleri</plural>
   </name>
 
   <name key="RubyDeposit" tags="n">
-    <singular>Ruby Deposit</singular>
-    <plural>Ruby Deposits</plural>
+    <singular>Yakut Depoziti</singular>
+    <plural>Yakut Depozitleri</plural>
   </name>
 
   <name key="SapphireDeposit" tags="n">
-    <singular>Sapphire Deposit</singular>
-    <plural>Sapphire Deposits</plural>
+    <singular>Safir Depoziti</singular>
+    <plural>Safir Depozitleri</plural>
   </name>
 
   <name key="HumanMale" tags="m">
-    <singular>Human</singular>
-    <plural>Humans</plural>
+    <singular>İnsan</singular>
+    <plural>İnsanlar</plural>
   </name>
 
   <name key="HumanFemale" tags="f">
-    <singular>Human</singular>
-    <plural>Humans</plural>
+    <singular>İnsan</singular>
+    <plural>İnsanlar</plural>
   </name>
 
   <name key="ElfMale" tags="m an">
     <singular>Elf</singular>
-    <plural>Elves</plural>
+    <plural>Elfler</plural>
   </name>
 
   <name key="ElfFemale" tags="f an">
     <singular>Elf</singular>
-    <plural>Elves</plural>
+    <plural>Elfler</plural>
   </name>
 
   <name key="Bunny" tags="m">
-    <singular>Bunny</singular>
-    <plural>Bunnies</plural>
+    <singular>Tavşan</singular>
+    <plural>Tavşanlar</plural>
   </name>
 
   <name key="Porcupine" tags="m">
-    <singular>Porcupine</singular>
-    <plural>Porcupines</plural>
+    <singular>Kirpi</singular>
+    <plural>Kirpiler</plural>
   </name>
 
   <name key="Collie" tags="m">
-    <singular>Collie</singular>
-    <plural>Collies</plural>
+    <singular>İskoç Çoban Köpeği</singular>
+    <plural>İskoç Çoban Köpekleri</plural>
   </name>
 
 
   <name key="ShepherdDog" tags="m">
-    <singular>Shepherd Dog</singular>
-    <plural>Shepherd Dogs</plural>
+    <singular>Çoban Köpeği</singular>
+    <plural>Çoban Köpekleri</plural>
   </name>
 
   <name key="Cow" tags="m">
-    <singular>Cow</singular>
-    <plural>Cows</plural>
+    <singular>İnek</singular>
+    <plural>İnekler</plural>
   </name>
 
   <name key="Alpaca" tags="n">
-    <singular>Alpaca</singular>
-    <plural>Alpacas</plural>
+    <singular>Alpaka</singular>
+    <plural>Alpakalar</plural>
   </name>
 
   <name key="BrownAlpaca" tags="n">
-    <singular>Alpaca</singular>
-    <plural>Alpacas</plural>
+    <singular>Alpaka</singular>
+    <plural>Alpakalar</plural>
   </name>
 
   <name key="SkullBull" tags="m">
-    <singular>Skull Bull</singular>
-    <plural>Skull Bulls</plural>
+    <singular>Kafatası Boğası</singular>
+    <plural>Kafatası Boğaları</plural>
   </name>
 
   <name key="Egg" tags="n">
-    <singular>Egg</singular>
-    <plural>Eggs</plural>
+    <singular>Yumurta</singular>
+    <plural>Yumurtalar</plural>
   </name>
 
   <name key="Turtle" tags="f">
-    <singular>Turtle</singular>
-    <plural>Turtles</plural>
+    <singular>Kaplumbağa</singular>
+    <plural>Kaplumbağalar</plural>
   </name>
 
   <name key="Terrier" tags="m">
-    <singular>Terrier</singular>
-    <plural>Terriers</plural>
+    <singular>Terriyer</singular>
+    <plural>Terriyerler</plural>
   </name>
   
    <name key="ScottishTerrier" tags="m">
-    <singular>Scottish Terrier</singular>
-    <plural>Scottish Terriers</plural>
+    <singular>İskoç Terriyer</singular>
+    <plural>İskoç Terriyerler</plural>
   </name>
 
   <name key="Panther" tags="m">
-    <singular>Panther</singular>
-    <plural>Panthers</plural>
+    <singular>Panter</singular>
+    <plural>Panterler</plural>
   </name>
 
   <name key="Cat" tags="f">
-    <singular>Cat</singular>
-    <plural>Cats</plural>
+    <singular>Kedi</singular>
+    <plural>Kediler</plural>
   </name>
 
   <name key="BrownCat" tags="f">
-    <singular>Cat</singular>
-    <plural>Cats</plural>
+    <singular>Kedi</singular>
+    <plural>Kediler</plural>
   </name>
 
   <name key="WhiteCat" tags="f">
-    <singular>Cat</singular>
-    <plural>Cats</plural>
+    <singular>Kedi</singular>
+    <plural>Kediler</plural>
   </name>
 
   <name key="Pig" tags="n">
-    <singular>Pig</singular>
-    <plural>Pigs</plural>
+    <singular>Domuz</singular>
+    <plural>Domuzlar</plural>
   </name>
 
   <name key="Sheep" tags="n">
-    <singular>Sheep</singular>
-    <plural>Sheeps</plural>
+    <singular>Koyun</singular>
+    <plural>Koyunlar</plural>
   </name>
 
   <name key="Horse" tags="n">
-    <singular>Horse</singular>
-    <plural>Horses</plural>
+    <singular>At</singular>
+    <plural>Atlar</plural>
   </name>
 
   <name key="Camel" tags="n">
-    <singular>Camel</singular>
-    <plural>Camels</plural>
+    <singular>Deve</singular>
+    <plural>Develer</plural>
   </name>
 
   <name key="Monkey" tags="n">
-    <singular>Monkey</singular>
-    <plural>Monkeys</plural>
+    <singular>Maymun</singular>
+    <plural>Maymunlar</plural>
   </name>
 
   <name key="Chicken" tags="n">
-    <singular>Chicken</singular>
-    <plural>Chickens</plural>
+    <singular>Tavuk</singular>
+    <plural>Tavuklar</plural>
   </name>
 
   <name key="Wolf" tags="n">
-    <singular>Wolf</singular>
-    <plural>Wolves</plural>
+    <singular>Kurt</singular>
+    <plural>Kurtlar</plural>
   </name>
 
   <name key="Devourer" tags="n">
-    <singular>Devourer</singular>
-    <plural>Devourers</plural>
+    <singular>Yiyip Bitiren</singular>
+    <plural>Yiyip Bitirenler</plural>
   </name>
 
   <name key="Fly" tags="f">
-    <singular>Fly</singular>
-    <plural>Flies</plural>
+    <singular>Sinek</singular>
+    <plural>Sinekler</plural>
   </name>
 
   <name key="Midge" tags="f">
-    <singular>Midge</singular>
-    <plural>Midges</plural>
+    <singular>Tatarcık</singular>
+    <plural>Tatarcıklar</plural>
   </name>
 
   <name key="Mosquito" tags="f">
-    <singular>Mosquito</singular>
-    <plural>Mosquitos</plural>
+    <singular>Sivri Sinek</singular>
+    <plural>Sivri Sinek</plural>
   </name>
 
   <name key="GreenSlime" tags="m">
-    <singular>Slime</singular>
-    <plural>Slimes</plural>
+    <singular>Balçık</singular>
+    <plural>Balçıklar</plural>
   </name>
 
   <name key="PinkSlime" tags="m">
-    <singular>Slime</singular>
-    <plural>Slimes</plural>
+    <singular>Balçık</singular>
+    <plural>Balçıklar</plural>
   </name>
 
   <name key="YellowSlime" tags="m">
-    <singular>Slime</singular>
-    <plural>Slimes</plural>
+    <singular>Balçık</singular>
+    <plural>Balçıklar</plural>
   </name>
 
   <name key="BlueSlime" tags="m">
-    <singular>Slime</singular>
-    <plural>Slimes</plural>
+    <singular>Balçık</singular>
+    <plural>Balçıklar</plural>
   </name>
 
   <name key="Witch" tags="f">
-    <singular>Witch</singular>
-    <plural>Witches</plural>
+    <singular>Cadı</singular>
+    <plural>Cadılar</plural>
   </name>
 
   <name key="Gnobold" tags="m">
-    <singular>Gnobold</singular>
-    <plural>Gnobolds</plural>
+    <singular>Cesur Kadın</singular>
+    <plural>Cesur Kadınlar</plural>
   </name>
 
   <name key="Insectoid" tags="m">
-    <singular>Insektoid</singular>
-    <plural>Insektoiden</plural>
+    <singular>Jöle</singular>
+    <plural>Jöleler</plural>
   </name>
 
   <name key="Jester" tags="m">
-    <singular>Jester</singular>
-    <plural>Jesters</plural>
+    <singular>Şakacı</singular>
+    <plural>Şakacılar</plural>
   </name>
 
   <name key="Gnoll" tags="m">
-    <singular>Gnoll</singular>
-    <plural>Gnolls</plural>
+    <singular></singular>
+    <plural></plural>
   </name>
 
   <name key="PolarGnoll" tags="m">
-    <singular>Polar Gnoll</singular>
-    <plural>Polar Gnolls</plural>
+    <singular></singular>
+    <plural></plural>
   </name>
 
   <name key="Mermaid" tags="m">
-    <singular>Mermaid</singular>
-    <plural>Mermaids</plural>
+    <singular>Deniz Kızı</singular>
+    <plural>Deniz Kızları</plural>
   </name>
 
   <name key="Merman" tags="m">
-    <singular>Merman</singular>
-    <plural>Mermen</plural>
+    <singular>Deniz Adamı</singular>
+    <plural>Deniz Adamları</plural>
   </name>
 
   <name key="Mammoth" tags="n">
-    <singular>Mammoth</singular>
-    <plural>Mammoths</plural>
+    <singular>Mamut</singular>
+    <plural>Mamutlar</plural>
   </name>
 
   <name key="Cyclops" tags="m">
-    <singular>Cyclops</singular>
-    <plural>Cyclopses</plural>
+    <singular>Tek Gözlü Dev</singular>
+    <plural>Tek Gözlü Devler</plural>
   </name>
 
   <name key="RuneGiant" tags="m">
-    <singular>Rune Giant</singular>
-    <plural>Rune Giants</plural>
+    <singular>Ölüm Makinesi</singular>
+    <plural>Ölüm Makineleri</plural>
   </name>
 
   <name key="Yeti" tags="m">
     <singular>Yeti</singular>
-    <plural>Yetis</plural>
+    <plural>Yetiler</plural>
   </name>
 
   <name key="Golem" tags="m">
     <singular>Golem</singular>
-    <plural>Golems</plural>
+    <plural>Golemler</plural>
   </name>
 
   <name key="EmberGolem" tags="m">
-    <singular>Ember Golem</singular>
-    <plural>Ember Golems</plural>
+    <singular>Kor Golem</singular>
+    <plural>Kor Golemler</plural>
   </name>
 
   <name key="SnowGolem" tags="m">
-    <singular>Snow Golem</singular>
-    <plural>Snow Golems</plural>
+    <singular>Kar Golemi</singular>
+    <plural>Kar Golemleri</plural>
   </name>
 
 
   <name key="HellDemon" tags="m">
-    <singular>Hell Demon</singular>
-    <plural>Hell Demon</plural>
+    <singular>Cehennem İblisi</singular>
+    <plural>Cehennem İblisleri</plural>
   </name>
 
   <name key="Ogre" tags="m">
-    <singular>Ogre</singular>
-    <plural>Ogres</plural>
+    <singular>İnsan Yiyen Dev</singular>
+    <plural>İnsan Yiyen Devler</plural>
   </name>
 
   <name key="Rockling" tags="m">
-    <singular>Rockling</singular>
-    <plural>Rocklings</plural>
+    <singular>Kaya</singular>
+    <plural>Kayalar</plural>
   </name>
 
   <name key="SpikeCreature" tags="n">
-    <singular>Spike Creature</singular>
-    <plural>Spike Creatures</plural>
+    <singular>Başak Yaratığı</singular>
+    <plural>Başak Yaratıkları</plural>
   </name>
 
   <name key="Spectrino" tags="n">
-    <singular>Spectrino</singular>
-    <plural>Spectrinos</plural>
+    <singular>Gökkuşağı Yaratığı</singular>
+    <plural>Gökkuşağı Yaratıkları</plural>
   </name>
 
   <name key="Djinn" tags="m">
-    <singular>Djinn</singular>
-    <plural>Djinns</plural>
+    <singular>Ecinni</singular>
+    <plural>Ecinniler</plural>
   </name>
 
   <name key="Minotaur" tags="n">
-    <singular>Minotaur</singular>
-    <plural>Minotaurs</plural>
+    <singular>Minyatür</singular>
+    <plural>Minyatürler</plural>
   </name>
 
   <name key="Frightener" tags="n">
-    <singular>Frightener</singular>
-    <plural>Frighteners</plural>
+    <singular>Ruh</singular>
+    <plural>Ruhlar</plural>
   </name>
 
   <name key="SandHorror" tags="n">
-    <singular>Sand Horror</singular>
-    <plural>Sand Horrors</plural>
+    <singular>Kum Korkusu</singular>
+    <plural>Kum Korkuları</plural>
   </name>
   
   <name key="Imp" tags="n">
-    <singular>Imp</singular>
-    <plural>Imps</plural>
+    <singular>Küçük Şeytan</singular>
+    <plural>Küçük Şeytan</plural>
   </name>
 
   <name key="Vampire" tags="m">
-    <singular>Vampire</singular>
-    <plural>Vampires</plural>
+    <singular>Vampir</singular>
+    <plural>Vampirler</plural>
   </name>
 
   <name key="Spitter" tags="m">
-    <singular>Spitter</singular>
-    <plural>Spitters</plural>
+    <singular></singular>
+    <plural></plural>
   </name>
 
   <name key="PlantCreature" tags="m">
-    <singular>Cormling</singular>
-    <plural>Cormlings</plural>
+    <singular></singular>
+    <plural></plural>
   </name>
 
   <name key="RadishCreature" tags="m">
-    <singular>Radishling</singular>
-    <plural>Radishlings</plural>
+    <singular>Turp</singular>
+    <plural>Turplar</plural>
   </name>
 
   <name key="Onionling" tags="m">
-    <singular>Onionling</singular>
-    <plural>Onionlings</plural>
+    <singular>Soğan</singular>
+    <plural>Soğanlar</plural>
   </name>
 
 
   <name key="DesertOnionling" tags="m">
-    <singular>Desert Onionling</singular>
-    <plural>Desert Onionlings</plural>
+    <singular>Çöl Soğanı</singular>
+    <plural>Çöl Soğanları</plural>
   </name>
 
   <name key="Ginseng" tags="m">
-    <singular>Ginseng</singular>
-    <plural>Ginseng</plural>
+    <singular>Jinseng</singular>
+    <plural>Jinsengler</plural>
   </name>
 
   <name key="Bush" tags="m">
-    <singular>Bush</singular>
-    <plural>Bushes</plural>
+    <singular>Çalı</singular>
+    <plural>Çalılar</plural>
   </name>
 
   <name key="SnowBush" tags="m">
-    <singular>Bush</singular>
-    <plural>Bushes</plural>
+    <singular>Çalı</singular>
+    <plural>Çalılar</plural>
   </name>
 
   <name key="SnowBerryBush" tags="m">
-    <singular>Snowberry Bush</singular>
-    <plural>Snowberry Bushes</plural>
+    <singular>İnci Çiceği Çalısı</singular>
+    <plural>İnci Çiçeği Çalıları</plural>
   </name>
  
   <name key="SnowBerry" tags="m">
-    <singular>Snowberry</singular>
-    <plural>Snowberries</plural>
+    <singular>İnci Çiceği</singular>
+    <plural>İnci Çicekleri</plural>
   </name>
 
   <name key="SnowBerryMash" tags="m">
-    <singular>Snowberry Mash</singular>
-    <plural>Snowberry Mashes</plural>
+    <singular>İnci Çiceği Püresi</singular>
+    <plural>İnci Çiçeği Püreleri</plural>
   </name>
 
   <name key="ThornTree" tags="m">
-    <singular>Thorn Tree</singular>
-    <plural>Thorn Trees</plural>
+    <singular>Diken Ağacı</singular>
+    <plural>Diken Ağaçları</plural>
   </name>
 
   <name key="Cactus" tags="m">
-    <singular>Cactus</singular>
-    <plural>Cactus</plural>
+    <singular>Kaktüs</singular>
+    <plural>Kaktüsler</plural>
   </name>
 
   <name key="Dummy" tags="m">
-    <singular>Dummy</singular>
-    <plural>Dummys</plural>
+    <singular>Kukla</singular>
+    <plural>Kuklalar</plural>
   </name>
 
   <name key="Aim" tags="m">
-    <singular>Aim</singular>
-    <plural>Aims</plural>
+    <singular></singular>
+    <plural></plural>
   </name>
 
   <name key="CottonPlant" tags="f">
-    <singular>Cotton Plant</singular>
-    <plural>Cotton Plants</plural>
+    <singular>Pamuk Dalı</singular>
+    <plural>Pamuk Dalları</plural>
   </name>
 
   <name key="Capsule" tags="f">
-    <singular>Capsule</singular>
-    <plural>Capsules</plural>
+    <singular>Kapsül</singular>
+    <plural>Kapsüller</plural>
   </name>
 
   <name key="Scrub" tags="m">
-    <singular>Scrub</singular>
-    <plural>Scrubs</plural>
+    <singular>Bodur</singular>
+    <plural>Bodurlar</plural>
   </name>
 
   <name key="CobwebScrub" tags="m">
-    <singular>Scrub</singular>
-    <plural>Scrubs</plural>
+    <singular>Bodur</singular>
+    <plural>Bodurlar</plural>
   </name>
 
   <name key="FireScrub" tags="m">
-    <singular>Fire Scrub</singular>
-    <plural>Fire Scrub</plural>
+    <singular>Ateş Boduru</singular>
+    <plural>Ateş Bodurları</plural>
   </name>
 
   <name key="Scarecrow" tags="f">
-    <singular>Scarecrow</singular>
-    <plural>Scarecrows</plural>
+    <singular>Korkuluk</singular>
+    <plural>Korkulukları</plural>
   </name>
 
   <name key="NomadMale" tags="m">
-    <singular>Nomad</singular>
-    <plural>Nomads</plural>
+    <singular>Göçebe</singular>
+    <plural>Göçebeler</plural>
   </name>
 
   <name key="NomadFemale" tags="f">
-    <singular>Nomad</singular>
-    <plural>Nomads</plural>
+    <singular>Göçebe</singular>
+    <plural>Göçebeler</plural>
   </name>
 
   <name key="Saurian" tags="m">
-    <singular>Saurian</singular>
-    <plural>Saurians</plural>
+    <singular>Kertenkele</singular>
+    <plural>Kertenkeleler</plural>
   </name>
 
   <name key="Zombie" tags="m">
-    <singular>Zombie</singular>
-    <plural>Zombies</plural>
+    <singular>Zombi</singular>
+    <plural>Zombiler</plural>
   </name>
 
   <name key="Lich" tags="m">
-    <singular>Lich</singular>
-    <plural>Liches</plural>
+    <singular></singular>
+    <plural></plural>
   </name>
 
   <name key="Troll" tags="m">
     <singular>Troll</singular>
-    <plural>Trolls</plural>
+    <plural>Trolller</plural>
   </name>
 
   <name key="Werewolf" tags="m">
-    <singular>Werewolf</singular>
-    <plural>Werewolves</plural>
+    <singular>Kurt Adam</singular>
+    <plural>Kurt Adamlar</plural>
   </name>
 
   <name key="DarkTroll" tags="m">
-    <singular>Dark Troll</singular>
-    <plural>Dark Troll</plural>
+    <singular>Karanlık Troll</singular>
+    <plural>Karanlık Trolller</plural>
   </name>
 
   <name key="Cave">
-    <singular>Cave</singular>
-    <plural>Caves</plural>
+    <singular>Mağara</singular>
+    <plural>Mağaralar</plural>
   </name>
 
 
@@ -789,223 +789,223 @@
 
 
   <name key="Artifact">
-    <singular>Artifact</singular>
-    <plural>Artifacts</plural>
+    <singular>Yapay Doku</singular>
+    <plural>Yapay Dokular</plural>
   </name>
 
 
 
   <name key="Amulet" tags="n">
-    <singular>Amulet</singular>
-    <plural>Amulets</plural>
+    <singular>Muska</singular>
+    <plural>Muskalar</plural>
   </name>
 
   <name key="Ring" tags="m">
-    <singular>Ring</singular>
-    <plural>Rings</plural>
+    <singular>Yüzük</singular>
+    <plural>Yüzükler</plural>
   </name>
 
   <name key="Amulet1">
-    <singular>Amulet</singular>
-    <plural>Amulets</plural>
+    <singular>Muska</singular>
+    <plural>Muskalar</plural>
   </name>
 
   <name key="Amulet2">
-    <singular>Amulet</singular>
-    <plural>Amulets</plural>
+    <singular>Muska</singular>
+    <plural>Muskalar</plural>
   </name>
 
   <name key="Statue">
-    <singular>Statue</singular>
-    <plural>Statues</plural>
+    <singular>Statü</singular>
+    <plural>Statüler</plural>
   </name>
   <name key="Door">
-    <singular>Door</singular>
+    <singular>Kapı</singular>
   </name>
   <name key="BigDoor">
-    <singular>Door</singular>
+    <singular>Büyük Kapı</singular>
   </name>
   <name key="Window">
-    <singular>Window</singular>
+    <singular>Pencere</singular>
   </name>
   <name key="CastleWindow">
-    <singular>Window</singular>
+    <singular>Pencere</singular>
   </name>
   <name key="Gate">
-    <singular>Gate</singular>
+    <singular>Geçit</singular>
   </name>
   <name key="FireTrap">
-    <singular>Fire Trap</singular>
+    <singular>Ateş Tuzağı</singular>
   </name>
   <name key="SpikeTrap">
-    <singular>Spike Trap</singular>
+    <singular>Başak Tuzağı</singular>
   </name>
   <name key="StompTrap">
-    <singular>Stomp Trap</singular>
+    <singular>Basılan Tuzak</singular>
   </name>
   <name key="Lever">
-    <singular>Lever</singular>
+    <singular>Şalter</singular>
   </name>
   <name key="Chest">
-    <singular>Chest</singular>
+    <singular>Sandık</singular>
   </name>
   <name key="Table">
-    <singular>Table</singular>
+    <singular>Masa</singular>
   </name>
   <name key="Stool">
-    <singular>Stool</singular>
+    <singular>Dışkı</singular>
   </name>
   <name key="Bench">
-    <singular>Bench</singular>
+    <singular>Tezgah</singular>
   </name>
   <name key="Bed">
-    <singular>Bed</singular>
+    <singular>Yatak</singular>
   </name>
   <name key="BedTable">
-    <singular>Bed Table</singular>
+    <singular>Yatak Tezgahı</singular>
   </name>
   <name key="MarketStand1">
-    <singular>Market Stand</singular>
+    <singular>Market Standı</singular>
   </name>
   <name key="MarketStand2">
-    <singular>Market Stand</singular>
+    <singular>Market Standı</singular>
   </name>
   <name key="MarketStand3">
-    <singular>Market Stand</singular>
+    <singular>Market Standı</singular>
   </name>
   <name key="Barrel">
-    <singular>Barrel</singular>
+    <singular>Varil</singular>
   </name>
   <name key="Crate">
-    <singular>Crate</singular>
+    <singular>Kasa</singular>
   </name>
   <name key="OpenCrate">
-    <singular>Crate</singular>
+    <singular>Kasa</singular>
   </name>
   <name key="Sack">
-    <singular>Sack</singular>
+    <singular>Çuval</singular>
   </name>
   <name key="Shelter">
-    <singular>Shelter</singular>
+    <singular>Barınak</singular>
   </name>
   <name key="Cupboard">
-    <singular>Cupboard</singular>
+    <singular>Dolap</singular>
   </name>
   <name key="Desktop">
-    <singular>Desktop</singular>
+    <singular>Masaüstü</singular>
   </name>
   <name key="Counter">
-    <singular>Counter</singular>
+    <singular>Karşı</singular>
   </name>
   <name key="Shelf1">
-    <singular>Shelf</singular>
+    <singular>Raf</singular>
   </name>
   <name key="Shelf2">
-    <singular>Shelf</singular>
+    <singular>Raf</singular>
   </name>
   <name key="Shelf3">
-    <singular>Shelf</singular>
+    <singular>Raf</singular>
   </name>
   <name key="Corpse">
-    <singular>Corpse</singular>
+    <singular>Ceset</singular>
   </name>
   <name key="Statue">
-    <singular>Statue</singular>
+    <singular>Statü</singular>
   </name>
   <name key="RuneStone">
-    <singular>Rune Stone</singular>
+    <singular>Rünik Taşı</singular>
   </name>
   <name key="Artifact">
-    <singular>Artifact</singular>
+    <singular>Yapay Doku</singular>
   </name>
   <name key="FlowerBox1">
-    <singular>Flower Box</singular>
+    <singular>Çiçek Kutusu</singular>
   </name>
   <name key="FlowerBox2">
-    <singular>Flower Box</singular>
+    <singular>Çiçek Kutusu</singular>
   </name>
   <name key="FlowerBox3">
-    <singular>Flower Box</singular>
+    <singular>Çiçek Kutusu</singular>
   </name>
   <name key="StreetLight">
-    <singular>Street Light</singular>
+    <singular>Sokak Lambası</singular>
   </name>
   <name key="FireStreetLight">
-    <singular>Street Light</singular>
+    <singular>Sokak Lambası</singular>
   </name>
   <name key="Fence1">
-    <singular>Fence</singular>
+    <singular>Çit</singular>
   </name>
   <name key="Fence2">
-    <singular>Fence</singular>
+    <singular>Çit</singular>
   </name>
   <name key="Fence3">
-    <singular>Fence</singular>
+    <singular>Çit</singular>
   </name>
   <name key="Fence4">
-    <singular>Fence</singular>
+    <singular>Çit</singular>
   </name>
 
   <name key="Furnace">
-    <singular>Furnace</singular>
+    <singular>Fırın</singular>
   </name>
 
   <name key="Anvil">
-    <singular>Anvil</singular>
+    <singular>Örs</singular>
   </name>
 
   <name key="SpinningWheel">
-    <singular>Spinning Wheel</singular>
+    <singular>Dikiş Makinesi</singular>
   </name>
 
   <name key="Loom">
-    <singular>Loom</singular>
+    <singular>Dokuma Tezgahı</singular>
   </name>
 
   <name key="SawBench">
-    <singular>Saw</singular>
+    <singular>Testere</singular>
   </name>
 
   <name key="Workbench">
-    <singular>Workbench</singular>
+    <singular>Çalışma Masası</singular>
   </name>
 
   <name key="CustomizationBench">
-    <singular>Customization Bench</singular>
+    <singular>Özelleştirme Masası</singular>
   </name>
 
   <name key="Vase1">
-    <singular>Vase</singular>
+    <singular>Vazo</singular>
   </name>
   <name key="Vase2">
-    <singular>Vase</singular>
+    <singular>Vazo</singular>
   </name>
   <name key="Vase3">
-    <singular>Vase</singular>
+    <singular>Vazo</singular>
   </name>
   <name key="Vase4">
-    <singular>Vase</singular>
+    <singular>Vazo</singular>
   </name>
   <name key="Vase5">
-    <singular>Vase</singular>
+    <singular>Vazo</singular>
   </name>
   <name key="Vase6">
-    <singular>Vase</singular>
+    <singular>Vazo</singular>
   </name>
   <name key="Vase7">
-    <singular>Vase</singular>
+    <singular>Vazo</singular>
   </name>
   <name key="Vase8">
-    <singular>Vase</singular>
+    <singular>Vazo</singular>
   </name>
   <name key="Vase9">
-    <singular>Vase</singular>
+    <singular>Vazo</singular>
   </name>
   <name key="Campfire">
-    <singular>Campfire</singular>
+    <singular>Kamp Ateşi</singular>
   </name>
   <name key="Tent">
-    <singular>Tent</singular>
+    <singular>Çadır</singular>
   </name>
   <name key="BeachUmbrella">
     <singular>Beach Umbrella</singular>
